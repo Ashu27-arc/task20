@@ -10,7 +10,7 @@ function App() {
   
   const shoes = {
     running: [
-      { id: 1, name: "Nike Air Max", price: 129.99, image: "./src/assets/images/s.jpg", category: "running" },
+      { id: 1, name: "Nike Air Max", price: 129.99, image: "/src/assets/images/s.jpg", category: "running" },
       { id: 2, name: "Adidas Ultraboost", price: 159.99, image: "./src/assets/images/s1.jpg", category: "running" },
       // { id: 5, name: "Asics Gel-Kayano", price: 139.99, image: "https://via.placeholder.com/150", category: "running" },
       // { id: 6, name: "Brooks Ghost", price: 119.99, image: "https://via.placeholder.com/150", category: "running" },
